@@ -9,7 +9,6 @@ Graduando em Engenharia de Computação. Técnico em Mecatrônica completo
 Projetos e Repositórios
 - Teiu
   - Interface Cliente-Servidor e programação de software do robô
-  - 
 - Xurí
   - Dimensionamento, modelagem, manufatura e programação de um robô bípede
 
