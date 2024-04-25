@@ -4,10 +4,10 @@
 
 Graduando em Engenharia de Computação. Técnico em Mecatrônica completo
 - Atualmente trabalho em projetos de Engenharia de Detalhes na área de papel e celulose;
-- Busco oportunidade como Desenvolvedor Back-end Júnior usando a linguagem Java;
+- Busco oportunidade como Desenvolvedor Back-end Júnior usando Java;
 
 Projetos e Repositórios
-- Teiu
+- Teiú
   - Interface Cliente-Servidor e programação de software do robô
 - Xurí
   - Dimensionamento, modelagem, manufatura e programação de um robô bípede
