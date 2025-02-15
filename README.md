@@ -4,7 +4,7 @@
 
 Graduando em Engenharia de Computação. Técnico em Mecatrônica completo
 - Atualmente trabalho em projetos de Engenharia de Detalhes na área de papel e celulose;
-- Busco oportunidade como Desenvolvedor Back-end Júnior usando Java;
+- Busco oportunidade como Estagiário em Sistemas Embarcados;
 
 Projetos e Repositórios
 - Teiú
