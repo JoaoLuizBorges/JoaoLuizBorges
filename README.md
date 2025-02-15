@@ -2,7 +2,7 @@
 
 ### Olá, sou João Luiz Borges
 
-Graduando em Engenharia de Computação. Técnico em Mecatrônica completo
+Graduado em Engenharia de Computação. Técnico em Mecatrônica completo, cursando Pós-Graduação em Engenharia de Software
 - Atualmente trabalho em projetos de Engenharia de Detalhes na área de papel e celulose;
 - Busco oportunidade como Estagiário em Sistemas Embarcados;
 
