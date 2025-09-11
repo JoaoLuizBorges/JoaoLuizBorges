@@ -1,29 +1,38 @@
-## "A system of cells interlinked ...
+# 👋 Olá, eu sou João Luiz Borges!
 
-### Olá, sou João Luiz Borges
+🎓 Estudante de Pós-Graduação em Engenharia de Software | 🚀 Futuro Desenvolvedor de Sistemas Embarcados  
+🔧 Atualmente estudando C/C++, microcontroladores, e design de PCBs  
+📁 Construindo meu portfólio de projetos com Arduino, STM32 e ESP32
 
-Graduado em Engenharia de Computação. Técnico em Mecatrônica completo, cursando Pós-Graduação em Engenharia de Software
-- Atualmente trabalho em projetos de Engenharia de Detalhes na área de papel e celulose;
-- Busco oportunidade como Estagiário em Sistemas Embarcados;
+---
 
-Projetos e Repositórios
-- Teiú
-  - Interface Cliente-Servidor e programação de software do robô
-- Xurí
-  - Dimensionamento, modelagem, manufatura e programação de um robô bípede
+## 🛠️ Habilidades em Desenvolvimento
+- Linguagens: `C`, `C++`, `Assembly`, `Rust`
+- Microcontroladores: `Arduino`, `STM32`, `ESP32`
+- Ferramentas: `Espressif IDE`, `STM32CubeIDE`
+- Protocolos: `I2C`, `SPI`, `UART`
 
-... within one stem"
-<!--
-**JoaoLuizBorges/JoaoLuizBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💼 Projetos em Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Em Progresso 
+
+🚧🧱🏗️ <br/> Trabalhos pesados em andamento... <br/> 
+🔧🔨⚙️ <br/> Portfólio em construção!
+
+---
+
+## ✍️ Aprendizados e Anotações
+
+📘 Estou mantendo um diário técnico dos meus estudos:  
+📓 **[Meu Journal](https://github.com/JoaoLuizBorges/journal)**
+
+---
+
+## 📫 Como me encontrar
+- LinkedIn: [João Luiz de Oliveira Silva Borges](linkedin.com/in/joão-luiz-de-oliveira-silva-borges-a257a213a)
+  
+---
+
+❤ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e me chamar para conversar.
