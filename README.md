@@ -16,10 +16,8 @@
 
 ## 💼 Projetos em Destaque
 
-### Em Progresso 
-
-🚧🧱🏗️ <br/> Trabalhos pesados em andamento... <br/> 
-🔧🔨⚙️ <br/> Portfólio em construção!
+🦎 **[Teiú](https://github.com/JoaoLuizBorges/Teiu-Assu)** </br>
+👁️ **[Eçaí](https://github.com/JoaoLuizBorges/ecai)**
 
 ---
 
