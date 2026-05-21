@@ -17,7 +17,8 @@
 ## 💼 Projetos em Destaque
 
 🦎 **[Teiú](https://github.com/JoaoLuizBorges/Teiu-Assu)** </br>
-👁️ **[Eçaí](https://github.com/JoaoLuizBorges/ecai)**
+👁️ **[Eçaí](https://github.com/JoaoLuizBorges/ecai)** </br>
+🛰️ **[uart-secure-channel](https://github.com/JoaoLuizBorges/uart-secure-channel.git)**
 
 ---
 
