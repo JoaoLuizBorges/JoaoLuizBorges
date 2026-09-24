@@ -16,17 +16,8 @@
 
 ## 💼 Projetos em Destaque
 
-🦎 **[Teiú](https://github.com/JoaoLuizBorges/Teiu-Assu)** </br>
-👁️ **[Eçaí](https://github.com/JoaoLuizBorges/ecai)** </br>
-🛰️ **[uart-secure-channel](https://github.com/JoaoLuizBorges/uart-secure-channel.git)**
-
----
-
-## ✍️ Aprendizados e Anotações
-
-📘 Estou mantendo um diário técnico dos meus estudos:  
-📓 **[Meu Journal](https://github.com/JoaoLuizBorges/journal)**
-
+🔐 **[uart-secure-channel](https://github.com/JoaoLuizBorges/uart-secure-channel.git)** </br>
+📡 **[lidar_sensor_reader](https://github.com/JoaoLuizBorges/lidar_sensor_reader.git)** </br>
 ---
 
 ## 📫 Como me encontrar
