@@ -8,7 +8,7 @@
 
 ## 🛠️ Habilidades em Desenvolvimento
 - Linguagens: `C`, `C++`, `Assembly`, `Rust`
-- Microcontroladores: `Arduino`, `STM32`, `ESP32`
+- Microcontroladores: `STM32`, `ESP32`, `Arduino`
 - Ferramentas: `Espressif IDE`, `STM32CubeIDE`
 - Protocolos: `I2C`, `SPI`, `UART`
 
