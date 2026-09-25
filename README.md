@@ -18,7 +18,7 @@
 
 🔐 **[uart-secure-channel](https://github.com/JoaoLuizBorges/uart-secure-channel.git)** </br>
 📡 **[lidar_sensor_reader](https://github.com/JoaoLuizBorges/lidar_sensor_reader.git)** </br>
-
+📶 **[lora_comm](https://github.com/JoaoLuizBorges/lora_comm.git)** </br>
 ---
 
 ## 📫 Como me encontrar
